@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:29/10/26
 ## Reference Number:26000241
-## Name:Sahasra
+## Name:Sahasra.S
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
